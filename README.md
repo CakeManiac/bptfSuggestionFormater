@@ -10,4 +10,4 @@ then run main.py and your formated suggestion will be in a new file called out.t
 
 the stuff in data.txt will give u this to directly paste in bptf:
 
-![image](https://github.com/CakeManiac/bptfSuggestionFormater/assets/38688051/8a199dd5-35f5-4233-a661-d7525b0ef4a4)
+![image](https://github.com/CakeManiac/bptfSuggestionFormater/assets/38688051/41167543-8a7e-4dd9-a34e-4cd188bc6cf7)
