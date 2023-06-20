@@ -15,6 +15,4 @@ and
 
 then run main.py and your formated suggestion will be in a new file called out.txt (or copy from console)
 
-the stuff in data.txt will give u this to directly paste in bptf:
-
-!
+the stuff in data.txt will give u what to directly paste in bptf
