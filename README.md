@@ -14,7 +14,7 @@ the stuff in data.txt will give u this:
 [/b]
 
 [u]Sale 1[/u]
-https://backpack.tf/profiles/76561198244962432#!/compare/1683417600/1683590400
+https://backpack.tf/profiles/76561198244962432#!/compare/1683417600/1683590400                                                                                      
 https://backpack.tf/profiles/76561198062387916#!/compare/1683244800/1683676800
 [color=#990000]Sold for 102 pure 
 [/color]
