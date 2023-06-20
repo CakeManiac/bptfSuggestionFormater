@@ -20,4 +20,4 @@ https://backpack.tf/profiles/76561198062387916#!/compare/1683244800/1683676800
 [/color]
 
 [b]Total[/b]
-[color=#990000]102[/color]
+[color=#990000]102[/color] 
