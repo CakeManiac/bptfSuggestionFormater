@@ -7,6 +7,8 @@ put n behind your item's name
 
 |s behind sales
 
+|p behind price
+
 and 
 
 |t behind total (see data.txt for example)
